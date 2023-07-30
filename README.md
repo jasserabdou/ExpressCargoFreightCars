@@ -14,5 +14,5 @@ The system supports the following features:
 To clone the repository, use the following command:
 
 ```
-git clone https://github.com/jassercmk1/Express-Cargo-Freight-Cars.git
+git clone https://github.com/jasserabdou/ExpressCargoFreightCars.git
 ```
